@@ -1,0 +1,23 @@
+{
+  "name": "unit-2-project",
+  "version": "1.0.0",
+  "description": "Pull and Bear website clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabh-s1/unit-2-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourabh-s1/unit-2-project/issues"
+  },
+  "homepage": "https://github.com/sourabh-s1/unit-2-project#readme",
+  "dependencies": {
+    "netlify": "^11.0.0"
+  }
+}
