@@ -6,9 +6,9 @@
 <h3>Product Page</h3>
 <img src="https://i.ibb.co/k1KQCQR/products-pull-bear.jpg"></img>
 
-## Description
+# Description
 
-An in-depth paragraph about your project and overview of use.
+Pull&Bear is a Spanish clothing and accessories retailer based in Narón, Galicia which offers various fashion wear and accessories for both men and women.
 
 # Authors
 
