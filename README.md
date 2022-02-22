@@ -1,62 +1,51 @@
 # Pull & Bear Clone
-
-Simple overview of use/purpose.
+<h3>Landing Page</h3>
+<img src="https://i.ibb.co/41gP0qj/Main-home-Pull-Bear.jpg"></img>
+<h3>Login Page</h3>
+<img src="https://i.ibb.co/z4t409v/Login-pullandbear.jpg"></img>
+<h3>Product Page</h3>
+<img src="https://i.ibb.co/k1KQCQR/products-pull-bear.jpg"></img>
 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
 
-## Getting Started
+# Authors
 
-### Dependencies
+- [sourabh-s1](https://github.com/sourabh-s1)
+- [Ganesh28Patil](https://github.com/Ganesh28Patil)
+- [Dkravi93](https://github.com/Dkravi93)
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+# How to look up
 
-### Installing
+Go to this link:-
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+https://akshaythakur1995.github.io/H-and-M-Project/
 ```
 
-## Help
+# Technologies Used for FRONTEND
+HTML <br/>
+CSS <br/>
+JavaScript <br/>
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
-## Authors
+# Tools
+VS Code
+Github
 
-Contributors names and contact info
+# Functionalities
+Signup and Login (done with local-storage)
+Sort items by there price
+Filter items by there price range
+Add items into the cart
+update items price and weight according to their quantity
+procees to pay after entering the dropout details
+pay by debit card
+checkout
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+# Website flow
+*Visit Landing page
+*Visit products page
+*Can add products to cart
+*Can Checkout
