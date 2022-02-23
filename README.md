@@ -38,7 +38,7 @@ Netlify
 # Functionalities
 Signup and Login (done with local-storage)
 Add items into the cart
-update items price and weight according to their quantity
+update items price and size options
 procees to pay after entering the dropout details
 pay by debit card
 checkout
